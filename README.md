@@ -1,1 +1,5 @@
-"# RawInputListener" 
+# RawInputListener
+
+使用原始输入监听输入的用户态程序。
+
+在不触发反作弊风控的情况下监听用户输入操作。
